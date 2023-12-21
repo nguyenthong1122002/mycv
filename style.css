@@ -59,7 +59,7 @@ html, body{
   /*HOME*/
   #conteneur-home{
     width:100%;
-    background-image:url(image/header_bg.png) fixed 100% no-repeat;
+    background-image:url(image/bg.png) fixed 100% no-repeat;
     background-size:cover;
     padding:159.5px 0px 100px 0px;
     text-align:center;

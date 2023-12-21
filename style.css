@@ -59,7 +59,7 @@ html, body{
   /*HOME*/
   #conteneur-home{
     width:100%;
-    background:url(/Img/header_bg.png) fixed 100% no-repeat;
+    background:url(/image/header_bg.png) fixed 100% no-repeat;
     background-size:cover;
     padding:159.5px 0px 100px 0px;
     text-align:center;
@@ -256,15 +256,15 @@ html, body{
     height:250px;
   }
   .oneport{
-    background:url(/Img/Project01.png);
+    background:url(/image/Project01.png);
     background-size:cover;
   }
   .twoport{
-    background:url(/Img/Project02.png);
+    background:url(/image/Project02.png);
     background-size:cover;
   }
   .threeport{
-    background:url(/Img/Project03.png);
+    background:url(/image/Project03.png);
     background-size:cover;
   }
   .text-miniature{

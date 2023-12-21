@@ -58,7 +58,6 @@ html, body{
   }
   /*HOME*/
   #conteneur-home{
-    width:100%;
     background-image:url(image/bg.png);
     background-size:cover;
     padding:159.5px 0px 100px 0px;

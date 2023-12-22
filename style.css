@@ -138,6 +138,7 @@ html, body{
   #conteneur-skills{
     padding:80px 0px;
     background-color:#18191a;
+    height : 600px;
   }
   .skills{
     max-width:960px;

@@ -154,7 +154,7 @@ html, body{
   }
   .bardiv{
     width:100%;
-    margin:auto;
+    margin:50px;
   }
   .bardiv h3{
     font-size:30px;
@@ -191,6 +191,9 @@ html, body{
   }
   .teamwork {
     width :75%;
+  }
+  .working{
+    width :70%;
   }
   /*DIPLOMA*/
   #conteneur-experience{
